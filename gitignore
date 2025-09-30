@@ -1,0 +1,12 @@
+# 파일
+ main_print_v1.ipynb
+ *.avi
+ *.mp4
+
+
+
+
+ # 폴더
+ abc/
+ venv/
+ .vscode/
