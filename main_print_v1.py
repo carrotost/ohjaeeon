@@ -1,6 +1,6 @@
 # 변수 선언
-name = "Alice"
-age = 25
+name = "오재언"
+age = 227
 score = 95.5
 
 #1 기본 출력
